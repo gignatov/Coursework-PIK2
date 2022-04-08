@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578539973 source:c:\users\scarlet\desktop\code\kursova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
